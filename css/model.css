@@ -1,0 +1,12 @@
+body {
+    font-family:Verdana, arial, serif;
+    font-size: 11px;
+    color: lightblue;
+    background-image: red;
+}
+
+#container {
+    margin: 6px auto;
+    text-align: right;
+    color: blue;
+}
