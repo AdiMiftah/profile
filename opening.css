@@ -20,7 +20,24 @@ h1 {
     font-size: 50px;
     text-align: center;
 }
- 
+#menu {
+    clear: both;
+    padding: 0; margin: 0 0 25px 25px;
+}
+#menu ul{
+    float: left;
+    border: none;
+    list-style: none;
+    font: bold 14px Arial;
+    padding: 0 0 0 50%;
+}
+#menu ul li{
+    display: none;
+}
+#menu ul li a{
+    padding-right: 16px;
+    bottom: 4px solid red;
+ }
 p {
     margin: 0 0 30px 0;
     font-size: 30px;
